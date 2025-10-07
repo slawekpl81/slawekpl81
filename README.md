@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slawekpl81
-- 👀 I’m interested in programming and cycling
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in programming
+- 🌱 I use PYTHON
 
 <!---
 slawekpl81/slawekpl81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
