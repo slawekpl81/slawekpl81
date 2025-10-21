@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slawekpl81
-- 👀 I’m interested in programming
+- 👀 I work in a mine and I'm interested in programming.
 - 🌱 I use C++
 
 <!---
